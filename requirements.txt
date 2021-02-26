@@ -1,0 +1,7 @@
+click
+alsaaudio
+audioop
+numpy
+matplotlib
+tensorflow>=2.1.0
+pygame
